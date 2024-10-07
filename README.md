@@ -29,9 +29,16 @@ Des graphistes sont également présents, retrouvez les sur notre Discord !
 
  
 
-## 🛠 Skills
-- Javascript
-- HTML/CSS
+## 🛠 Les talents de notre équipe ! 
+- Java
+- HTML/CSS/JS 
+- Python 
+- Glsl
+- Mcfunction
+- C
+- Haxe
+- Lua
+- C++
 
 
 ## Feedback
