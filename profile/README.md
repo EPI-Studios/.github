@@ -1,7 +1,5 @@
 
-[![signaturewbackground.png](https://i.postimg.cc/sgj945Lk/signaturewbackground.png)](https://postimg.cc/ZCQdTv4H)
-
-
+[![signaturewbackground.png](https://i.postimg.cc/3xNQZ4V2/croppedbanner.jpg)](https://postimg.cc/vcJKYBQm)
 
 # Epitygmata
 
