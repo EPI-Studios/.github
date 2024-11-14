@@ -7,6 +7,7 @@
 
 Bienvenue chez EPITYGMATA ! 
 Nous sommes un groupe de développeurs, bienvenue sur notre github ou nous publierons tous nos projets, notre portfolio, etc. 
+Ce groupe a été fondé dans le but de récolter de l'argent pour fonder notre studio de jeu vidéos indépendant ! 
 
 
 ## Nos Références
@@ -15,6 +16,12 @@ Nous sommes un groupe de développeurs, bienvenue sur notre github ou nous publi
  - 💻[Notre Site web pour voir nos services proposés.](https://www.epitygmata.fr/)
  - 💲 [Commander un service](https://www.epitygmata.fr/contactcommandes)
 
+## Nos domaines d'expertise: 
+- Minecraft (plugins/serveurs)
+- WebDev (sites web/backend/frontend)
+- Discord (bots/serveurs)
+- Graphisme (logo, design, illustrations, etc.)
+
 
 ## Meet the team ! 
 
@@ -22,8 +29,9 @@ Nous sommes un groupe de développeurs, bienvenue sur notre github ou nous publi
 - [@enflak3](https://github.com/enflak3) | Responsable && IT student 📚
 - [@Darukshock](https://github.com/Darukshock) | Member && Datapack Dev. 👓
 - [@Ichinose102](https://github.com/Ichinose102) | Member && Web/Discord Dev. 🕸
-- [@Meekiavelique](https://github.com/Meekiavelique) | Member && Polyvalent Dev. 🔃 
-- [@Sub2MathoX](https://github.com/Sub2MathoX) | Member && MC Dev.
+- [@Meekiavelique](https://github.com/Meekiavelique) | Member && MC/Discord/Web Dev. 🔃 
+- [@Sub2MathoX](https://github.com/Sub2MathoX) | Member && MC Dev. ⛏
+- Rush | Member && MC dev. ⛏
 
 Des graphistes sont également présents, retrouvez les sur notre Discord !
 
