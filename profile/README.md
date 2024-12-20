@@ -30,7 +30,7 @@ Ce groupe a été fondé dans le but de récolter de l'argent pour fonder notre 
 - [@Ichinose102](https://github.com/Ichinose102) | Member && Web/Discord Dev. 🕸
 - [@Meekiavelique](https://github.com/Meekiavelique) | Member && MC/Discord/Web Dev. 🔃 
 - [@Sub2MathoX](https://github.com/Sub2MathoX) | Member && MC/Twitch Dev. 📷
-- Rush | Member && MC dev. ⛏
+- [@Rush](https://github.com/MwRush) | Member && MC dev. ⛏
 
 Des graphistes sont également présents, retrouvez les sur notre Discord !
 
