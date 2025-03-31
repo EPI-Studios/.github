@@ -5,14 +5,17 @@
 
 Bienvenue chez EPITYGMATA ! 
 Nous sommes un groupe de développeurs, bienvenue sur notre github ou nous publierons tous nos projets, notre portfolio, etc. 
-Ce groupe a été fondé dans le but de récolter de l'argent pour fonder notre studio de jeu vidéos indépendant ! 
+Ce groupe a été fondé dans le but de récolter de l'argent pour fonder notre studio de jeu vidéos indépendant ! Nous lançons actuellement notre 
+studio de développement, n'hésitez pas à le rejoindre avec le lien juste en dessous !
 
 
 ## Nos Références
 
  - 🤖 [Notre discord pour toutes les annonces !](https://discord.gg/nKmrsHdQ4v)
+ - 🤖 [Participer à notre communautée autour du développement!](https://discord.gg/DyBq3EWqDv)
  - 💻[Notre Site web pour voir nos services proposés.](https://www.epitygmata.fr/)
  - 💲 [Commander un service](https://www.epitygmata.fr/contactcommandes)
+
 
 ## Nos domaines d'expertise: 
 - Minecraft (plugins/serveurs)
@@ -30,7 +33,6 @@ Ce groupe a été fondé dans le but de récolter de l'argent pour fonder notre 
 - [@Ichinose102](https://github.com/Ichinose102) | Member && Web/Discord Dev. 🕸
 - [@Meekiavelique](https://github.com/Meekiavelique) | Member && MC/Discord/Web Dev. 🔃 
 - [@Sub2MathoX](https://github.com/Sub2MathoX) | Member && MC/Twitch Dev. 📷
-- [@Rush](https://github.com/MwRush) | Member && MC dev. ⛏
 
 Des graphistes sont également présents, retrouvez les sur notre Discord !
 
