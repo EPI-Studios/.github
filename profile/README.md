@@ -1,5 +1,6 @@
 
-[![signaturewbackground.png](https://i.postimg.cc/3xNQZ4V2/croppedbanner.jpg)](https://postimg.cc/vcJKYBQm)
+[![Banniereepistudio.jpg](https://i.postimg.cc/50yBMFKZ/Banniereepistudio.jpg)](https://postimg.cc/Fdtdy14Z)
+
 
 
 
@@ -8,7 +9,7 @@
 
 #### Bienvenue sur le github officiel d'EPI Studios ! 
 
-Ici, vous trouverez des projets **open-source**, développés par notre talentueuse équipe ! Ils sont faits avec amour et beaucoup d'attention aux détails. N'hésitez pas à donner votre feedback sur nos projets, ou à y participer en respectant les règles de contributions ci-dessous ! 
+Ici, vous trouverez des projets **open-source**, développés par notre talentueuse équipe au sein de l'association EPI STUDIO! Ils sont faits avec amour et beaucoup d'attention aux détails. N'hésitez pas à donner votre feedback sur nos projets, ou à y participer en respectant les règles de contributions ci-dessous ! 
 
 ***De la part de toute l'équipe d'EPI-Studios, nous espèrons que nos projets vous plairont !*** 
 
@@ -33,14 +34,14 @@ Et plus très bientôt...
 
 ## 👥 Membres du studio
 
-- [@FlyingCow32](https://github.com/FlyingCow31) | Fondateur && Web/Desktop Dev 💻
+- [@FlyingCow32](https://github.com/FlyingCow31) | Président && Web/Desktop Dev 💻
 - [@killianeletellier](https://github.com/killianeletellier) | Responsable && web Dev. 🐱‍🏍
 - [@Ichinose102](https://github.com/Ichinose102) | Membre && Web/Discord Dev. 🕸
 - [@Meekiavelique](https://github.com/Meekiavelique) | Membre && MC/Discord/Web Dev. 🔃 
 - [@ChairGamertag87](https://github.com/ChairGamertag87) | Membre && Java Dev.
 - [@enflake](https://github.com/enflak3) | Membre && junior Dev
-
-Des graphistes sont également présents, retrouvez les sur notre Discord !
+- Ilan | Graphiste
+- Berkélium | Graphiste 
 
  
 
@@ -80,7 +81,7 @@ Nous sommes ravis d'accueillir vos modifications sur notre code ! Néanmoins si 
 
 Une question ? Une remarque ? Une demande ? 
 Pour toutes demande concernant une commande, un partenariat ou plainte concernant un service rendu: 
-> ✉ killiane@epistudios.fr 
+> ✉ contact@epistudios.fr
 
 Pour toutes demande concernant le projet, et autres demandes: 
 > 	✉ gael.tournier@epistudios.fr
