@@ -20,11 +20,11 @@ Ici, vous trouverez des projets **open-source**, développés par notre talentue
 
 **Découvrez nos principaux projets juste ici, sans vous embêter à aller les chercher dans les fichiers !**
 
-📝 [Template de site web #1](https://github.com/EPI-Studios/burghairs) > Maquette d'un site de burger simple
+📝 [Moud](https://github.com/EPI-Studios/Moud) > Framework Minecraft en Typescript ! 
 
 ☁ [MeekUp](https://github.com/EPI-Studios/Meekup) > Site d'upload avec un backend flash 
 
-🏆 [Site web officiel d'EPI-Studios](...) > Le lien arrive bientôt ;)
+🏆 [Site web officiel d'EPI-Studios](https://www.epistudios.fr) > Site web designé par nos graphistes et codé par notre équipe ! 
 
 Et plus très bientôt...
 
@@ -35,11 +35,12 @@ Et plus très bientôt...
 ## 👥 Membres du studio
 
 - [@FlyingCow32](https://github.com/FlyingCow31) | Président && Web/Desktop Dev 💻
-- [@killianeletellier](https://github.com/killianeletellier) | Responsable && web Dev. 🐱‍🏍
+- Nathan | Vice-Président de l'association 👓
+- Marine | Secrétaire de l'association 📜
+- [@enflake](https://github.com/enflak3) | Trésorier && junior Dev 💲
 - [@Ichinose102](https://github.com/Ichinose102) | Membre && Web/Discord Dev. 🕸
-- [@Meekiavelique](https://github.com/Meekiavelique) | Membre && MC/Discord/Web Dev. 🔃 
-- [@ChairGamertag87](https://github.com/ChairGamertag87) | Membre && Java Dev.
-- [@enflake](https://github.com/enflak3) | Membre && junior Dev
+- [@Meekiavelique](https://github.com/Meekiavelique) | Membre && MC/Discord/Web Dev. 🔃
+- [@Sub2MathoX](https://github.com/orgs/EPI-Studios/people/Sub2MathoX) | Membre && MC Dev. ⛏️
 - Ilan | Graphiste
 - Berkélium | Graphiste 
 
@@ -60,7 +61,7 @@ Et plus très bientôt...
 
 [![](https://dcbadge.limes.pink/api/server/hM5bMuvCBy)](https://discord.gg/hM5bMuvCBy)
 
-Website: [soon]
+Website: https://www.epistudios.fr
 
 
 
