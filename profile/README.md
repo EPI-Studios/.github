@@ -5,13 +5,13 @@
 
 
 
-# EPI Studios
+# EPI Studio
 
-#### Bienvenue sur le github officiel d'EPI Studios ! 
+#### Bienvenue sur le github officiel d'EPI Studio ! 
 
 Ici, vous trouverez des projets **open-source**, développés par notre talentueuse équipe au sein de l'association EPI STUDIO! Ils sont faits avec amour et beaucoup d'attention aux détails. N'hésitez pas à donner votre feedback sur nos projets, ou à y participer en respectant les règles de contributions ci-dessous ! 
 
-***De la part de toute l'équipe d'EPI-Studios, nous espèrons que nos projets vous plairont !*** 
+***De la part de toute l'équipe d'EPI-Studio, nous espèrons que nos projets vous plairont !*** 
 
 
 
