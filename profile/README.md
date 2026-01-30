@@ -41,8 +41,13 @@ Et plus très bientôt...
 - [@Ichinose102](https://github.com/Ichinose102) | Membre && Web/Discord Dev. 🕸
 - [@Meekiavelique](https://github.com/Meekiavelique) | Membre && MC/Discord/Web Dev. 🔃
 - [@Sub2MathoX](https://github.com/orgs/EPI-Studios/people/Sub2MathoX) | Membre && MC Dev. ⛏️
+- [@Mr_Qsdf](https://github.com/mrqsdf) | Membre && Java Dev 🧠
+- [@Nekoniyah](https://github.com/nekoniyah) | Membre && TypeScript/backend
+- [@Norvoxx](https://github.com/norvoxx) | Membre && Cyber-Sécurité/backend
+- [@Pawns](https://github.com/Pawns22) | Membre && Front-End développeur 
 - Ilan | Graphiste
-- Berkélium | Graphiste 
+- Loan | Community-Manager && Graphiste 
+
 
  
 
@@ -56,10 +61,12 @@ Et plus très bientôt...
 - Haxe
 - Lua
 - C++
+- Svelte
+- TypeScript
 
 # 🔗 Liens
 
-[![](https://dcbadge.limes.pink/api/server/hM5bMuvCBy)](https://discord.gg/hM5bMuvCBy)
+[![](https://dcbadge.limes.pink/api/server/hM5bMuvCBy)](https://discord.gg/v8QBxJnNQR)
 
 Website: https://www.epistudios.fr
 
